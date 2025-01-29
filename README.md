@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Node.js / Ejs**
 
-- 🌱 I’m currently learning **.Net Angular**
+- 🌱 I’m currently learning **React**
 
 - 📫 How to reach me **btdhaslan@gmail.com**
 
