@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Node.js / Ejs**
+- 🔭 I’m currently working on **Delphi Oracle Desktop Application**
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Delphi**
 
-- 📫 How to reach me **btdhaslan@gmail.com**
+- 📫 How to reach me **btdhaslan@gmail.com or 5075807020**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
